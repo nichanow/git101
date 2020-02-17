@@ -1,2 +1,2 @@
-create new-1.txt
+แก้ไขบรรทัดแรกของ new-1.txt ด้วย user1
 and save
